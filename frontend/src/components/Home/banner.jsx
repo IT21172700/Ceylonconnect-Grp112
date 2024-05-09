@@ -13,7 +13,7 @@ function HomeBanner() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>Welcome to Plannify</h3>
+          <h3>Welcome to Ceylonconnect</h3>
           <p>Experience the Magic of Sri Lanka - A Journey to Remember!</p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -37,7 +37,7 @@ function HomeBanner() {
         />
 
         <Carousel.Caption>
-          <h3>Welcome to Plannify</h3>
+          <h3>Welcome to Ceylonconnect</h3>
           <p>Experience the Magic of Sri Lanka - A Journey to Remember!</p>
         </Carousel.Caption>
       </Carousel.Item>

@@ -101,12 +101,12 @@ function wrapper() {
             <Card.Title
               style={{ fontSize: 18, fontWeight: "600", marginBottom: "2rem" }}
             >
-              Earn Points
+              Weather Check
             </Card.Title>
 
             {/* <Card.Text></Card.Text> */}
             <Card.Subtitle className="mb-2 text-muted">
-              Satisfaction guaranteed - Earn points and get discounts!
+            Stay updated on Sri Lanka's weather for better planning.
              
             </Card.Subtitle>
             {/* <Card.Link href="#">Card Link</Card.Link>

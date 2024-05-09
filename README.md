@@ -1,4 +1,4 @@
-# CSSE_WE_27-AF
+# Grp112
 
 # A web application developed to provide a solution to Sri Lanka's tourism problem
-# PLANNIFY
+# Ceylonconnect

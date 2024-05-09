@@ -28,7 +28,7 @@ const Footer = () => (
             {/* Plannify */}
           </h5>
           <p className="text-start">
-            Plannify offers a comprehensive guide to the top destinations, tours
+          Ceylonconnect offers a comprehensive guide to the top destinations, tours
             in Sri Lanka. We provide secure online payment options, expert
             travel advice, and trusted local partners to ensure your safety and
             enjoyment. Whether you're a first-time visitor or a seasoned
@@ -44,15 +44,15 @@ const Footer = () => (
           <ul className="list-unstyled">
             <li>
               <a
-                href="/herbal-beauty"
+                href="/convertor"
                 style={{ textDecoration: "none", color: "black"}}
               >
-                Self Guidance
+                Convertor
               </a>
             </li>
             <li>
               <a
-                href="/herbal-beauty"
+                href="/new-places"
                 style={{ textDecoration: "none", color: "black" }}
               >
                 Customized Packages
@@ -60,15 +60,15 @@ const Footer = () => (
             </li>
             <li>
               <a
-                href="/loyalty-reward"
+                href="/weather"
                 style={{ textDecoration: "none", color: "black" }}
               >
-                Loyalty Program
+                Weather
               </a>
             </li>
             <li>
               <a
-                href="/herbal-beauty"
+                href="/user-inquiry"
                 style={{ textDecoration: "none", color: "black" }}
               >
                 Inquire
@@ -94,7 +94,7 @@ const Footer = () => (
                   size="25"
                   style={{ marginRight: "0.3rem", marginBottom: "0.1rem" }}
                 />
-                100/5, Colombo, Sri Lanka
+                119, Malabe, Colombo, Sri Lanka
               </p>
             </li>
             <li>
@@ -103,7 +103,7 @@ const Footer = () => (
                   size="25"
                   style={{ marginRight: "0.5rem", marginBottom: "0.1rem" }}
                 />
-                info@gmail.com
+                info@Ceylonconnect.com
               </p>
             </li>
             <li>
@@ -112,7 +112,7 @@ const Footer = () => (
                   size="25"
                   style={{ marginRight: "0.4rem", marginBottom: "0.1rem" }}
                 />
-                0112 345 679
+                0112 60 70 60
               </p>
             </li>
           </ul>
@@ -127,7 +127,7 @@ const Footer = () => (
       © 2023 Copyright:
       <a href="/" style={{ textDecoration: "none", color: "black" }}>
         {" "}
-        Plannify
+        Ceylonconnect
       </a>
     </div>
   </footer>
