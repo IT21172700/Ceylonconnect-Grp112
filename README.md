@@ -4,5 +4,4 @@
 # Member 3 - IT21238444 - Wimalarathna D.M.A.T
 # Member 4 - IT21355882 - Chamodya W.A.H
 
-# Ceylonconnect
-# A web application developed to provide a solution to Sri Lanka's tourism problem
+# Ceylonconnect - A web application developed to provide a solution to Sri Lanka's tourism problem
